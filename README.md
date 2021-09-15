@@ -3,3 +3,6 @@ HELLO, this is a python and openCV project which identifies different colours in
 As, the colour is a 3 dimensional array(R,G,B) and each value can take a max. value of 255. This is the fundamental concept that I'll be working with.
 
 I have included the csv file of the color names and codes along with the sample image.
+
+
+PS : Here you can use the image which I have uploaded or else you can use your own image and change the image address in your code
