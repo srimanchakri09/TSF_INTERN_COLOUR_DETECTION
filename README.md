@@ -1,6 +1,6 @@
-HELLO, this is a python and openCV project which identifies different colours in images and as well as real time video or else any other recorded video is also possible.(865 colours)
+HELLO friends, this is a computer vision based project made using python language which identifies different colours in images and as well as real time video or else any other recorded video is also possible.
 
-As, the colour is a 3 dimensional array(R,G,B) and each value can take a max. value of 255. This is the fundamental concept that I'll be working with.
+we know that the colour is idenfied by using 3 values (R,G,B) this is the principle we are using for identifying the colour
 
 I have included the csv file of the color names and codes along with the sample image.
 
